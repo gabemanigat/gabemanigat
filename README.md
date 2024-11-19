@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabe Maniagt Jr! <br/><a href="https://github.com/YourGitHubHandle">Cybersecurity Engineer</a>, <a href="https://www.linkedin.com/in/YourLinkedIn/">IT Manager</a>, <a href="https://www.youtube.com/YourChannel"></a></h1> 
+<h1>Hi, I'm Gabe Maniagt Jr! <br/><a href="https://github.com/YourGitHubHandle">Cybersecurity Engineer</a>, IT Manager</a>, <a href="https://www.youtube.com/YourChannel"></a></h1> 
 
 <h2>👨‍💻 Cybersecurity and IT Projects:</h2>
 
