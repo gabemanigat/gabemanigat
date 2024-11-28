@@ -4,7 +4,7 @@
 
 
 I’m **gabemanigat**, a passionate cybersecurity expert with over the years of experience in protecting digital assets and ensuring a safer digital landscape. 
-Passionate with an ambition to become a cybersecurity expert. Committed to daily self-improvement, I am determined to achieve mastery in cybersecurity. Interested in Red Teaming , Reverse engineering , embedded systems and hardware hacking.
+Passionate with an ambition to become a cybersecurity expert. Committed to daily self-improvement, I am determined to achieve mastery in cybersecurity. Interested in leveraging skills in security operations and compliance to explore Red Teaming, Reverse Engineering, and the intersection of Embedded Systems and Hardware Hacking.
 
 ## 🔍 What I Do
 
