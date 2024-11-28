@@ -18,13 +18,13 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 
 - **Policy Development:** Creating and enforcing comprehensive security policies.
 - **Risk Assessments:** Conducting detailed risk evaluations to ensure data protection.
-- **Compliance:** Ensuring adherence to industry standards like ISO 27001 and NIST.
+- **Compliance:** Ensuring adherence to industry standards like ISO 27001 and NIST SP 800-37r2 and NIST SP 800-18r1.
 
 ### 💻 **Application Security**
 
 - **Secure Code Reviews:** Analyzing code to find and fix security vulnerabilities.
 - **Penetration Testing:** Performing thorough tests to uncover weaknesses.
-- **Development Guidance:** Advising on secure development practices (OWASP Top 10, secure SDLC).
+- **Development Guidance:** Advising on secure development practices (OWASP Top 10, secure SDLC W/ NIST 800-64r2).
 
 ### 🚨 **Incident Response**
 
