@@ -1,4 +1,4 @@
-## Hey 👋, This is gabemanigat 🚀
+## Hey 👋, This is GabeManigatJr 🚀
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gabemanigat alt=gabemanigat /> </p>
 
