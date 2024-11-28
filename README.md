@@ -35,7 +35,7 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 ### 📊 **Security Audits & Compliance**
 
 - **Assessments:** Reviewing security controls to identify and address vulnerabilities w/ NIST 800-30r1.
-- **Regulatory Compliance:** Ensuring compliance with GDPR, HIPAA, and other regulations.
+- **Regulatory Compliance:** Ensuring compliance with GDPR, HIPAA, HITRUST and other regulations.
 - **Audit Compliance:** Ensuring compliance with Audits, ITGC, and ITAC.
 
 ## 🌟 **Projects & Achievements**
