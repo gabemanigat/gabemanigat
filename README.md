@@ -35,6 +35,7 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 
 - **Assessments:** Reviewing security controls to identify and address vulnerabilities.
 - **Regulatory Compliance:** Ensuring compliance with GDPR, HIPAA, and other regulations.
+- - **Audit Compliance:** Ensuring compliance with Audits, ITGC, and ITAC.
 
 ## 🌟 **Projects & Achievements**
 
