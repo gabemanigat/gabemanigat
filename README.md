@@ -1,6 +1,5 @@
 ## Hey 👋, This is gabemanigat 
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gabemanigat)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gabemanigat alt=gabemanigat /> </p>
 
 ## 🚀 About Me
