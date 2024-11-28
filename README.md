@@ -4,7 +4,7 @@
 
 
 I’m **gabemanigat**, a passionate cybersecurity expert with over the years of experience in protecting digital assets and ensuring a safer digital landscape. 
-Passionate with an ambition to become a cybersecurity expert. Committed to daily self-improvement, I am determined to achieve mastery in cybersecurity. Interested in leveraging skills in security operations and compliance to explore and gain exposer to as many elements as possible.
+Passionate with an ambition to become a cybersecurity expert. Committed to daily self-improvement, I am determined to achieve mastery in cybersecurity. Interested in leveraging skills in security operations and compliance to explore and gain exposure to diverse elements of cybersecurity as possible.
 
 ## 🔍 What I Do
 
