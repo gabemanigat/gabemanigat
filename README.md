@@ -23,7 +23,7 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 ### 💻 **Application Security**
 
 - **Secure Code Reviews:** Analyzing code to find and fix security vulnerabilities.
-- **Penetration Testing:** Performing thorough tests to uncover weaknesses.
+- Penetration Test: Assisting in penetration testing processes and driving the remediation of identified vulnerabilities to enhance security posture. .
 - **Development Guidance:** Advising on secure development practices (OWASP Top 10, secure SDLC W/ NIST 800-64r2).
 
 ### 🚨 **Incident Response**
