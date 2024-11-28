@@ -28,7 +28,7 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 
 ### 🚨 **Incident Response**
 
-- **Planning:** Developing strategies for effective incident management.
+- **Planning:** Developing strategies for effective incident management w/ NIST 800-61, SANS Incident Framework, ISO27035.
 - **Mitigation:** Assisting in quick containment and recovery from security breaches.
 - **Contingency Plan:** Assisted with the creation w/ NIST 800-34.
 
