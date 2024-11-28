@@ -30,6 +30,7 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 
 - **Planning:** Developing strategies for effective incident management.
 - **Mitigation:** Assisting in quick containment and recovery from security breaches.
+- **Contingency Plan:** Assisted with the creation w/ NIST 800-34.
 
 ### 📊 **Security Audits & Compliance**
 
