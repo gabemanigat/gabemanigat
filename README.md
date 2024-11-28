@@ -19,6 +19,7 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 - **Policy Development:** Creating and enforcing comprehensive security policies w NIST SP 800-18r1 and FIPS 199 & FIPS 200.
 - **Risk Assessments:** Conducting detailed risk evaluations to ensure data protection w/ NIST 800-30r1.
 - **Compliance:** Ensuring adherence to industry standards like ISO 27001 and NIST SP 800-37r2 and NIST SP 800-18r1.
+- **Security Training:** Driving training and awareness programs with monthly and quarterly campaigns, promoting homegrown security hygiene and best practices.
 
 ### 💻 **Application Security**
 
