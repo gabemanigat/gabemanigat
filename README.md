@@ -1,46 +1,62 @@
-<h1>Hi, I'm Gabe Maniagt Jr! <br/><a href="https://github.com/YourGitHubHandle">Cybersecurity Engineer</a>, IT Manager</a>, <a href="https://www.youtube.com/YourChannel"></a></h1> 
+## Hey 👋, This is gabemanigat 
 
-<h2>👨‍💻 Cybersecurity and IT Projects:</h2>
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gabemanigat)
+<p align=left> <img src=https://komarev.com/ghpvc/?username=gabemanigat alt=gabemanigat /> </p>
 
-- <b>Access Management Automation</b>
-  - [IAM User Provisioning and Role-based Access Automation with SailPoint](https://github.com/YourGitHubHandle/IAM-Automation)
-- <b>Security Information and Event Management (SIEM)</b>
-  - [SIEM Alerts: Blumirror Incident Investigation and Remediation](https://github.com/YourGitHubHandle/SIEM-Alerts)
-- <b>ITGC Audit Support</b>
-  - [Automated Evidence Collection Tool for Internal Audits](https://github.com/YourGitHubHandle/ITGC-Audit-Automation)
-- <b>Python Development</b>
-  - [Phishing Campaign Analyzer (Email Metadata Parser)](https://github.com/YourGitHubHandle/Phishing-Analyzer)
-  - [Vulnerability Management Dashboard](https://github.com/YourGitHubHandle/Vulnerability-Dashboard)
-- <b>PowerShell Utilities</b>
-  - [Active Directory Bulk User Creation and Management](https://github.com/YourGitHubHandle/AD-Bulk-Management)
-  - [File Integrity Monitoring Script](https://github.com/YourGitHubHandle/FIM-Script)
+## 🚀 About Me
 
-<h2>📺 Popular Content and Tutorials:</h2>
+I’m **gabemanigat**, a passionate cybersecurity expert with over the years of experience in protecting digital assets and ensuring a safer digital landscape. 
+Passionate with an ambition to become a cybersecurity expert. Committed to daily self-improvement, I am determined to achieve mastery in cybersecurity. Interested in Red Teaming , Reverse engineering , embedded systems and hardware hacking.
 
-- [How to Perform ITGC Audits Effectively](https://www.youtube.com/watch?v=YourVideoLink)
-- [A Day in the Life of an IT Manager and Cybersecurity Engineer](https://www.youtube.com/watch?v=YourVideoLink)
-- [How to Use Blumirror SIEM for Incident Management](https://www.youtube.com/watch?v=YourVideoLink)
-- [Streamlining User Access Reviews (UARs) with Python](https://www.youtube.com/watch?v=YourVideoLink)
+## 🔍 What I Do
 
-<h2> 🤳 Connect with me:</h2>
+### 🌐 **Network Security**
 
-[<img align="left" alt="YourName | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="YourName | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="YourName | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="YourName | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **Architecture Design:** Crafting robust network structures to resist attacks.
+- **Firewall Implementation:** Deploying advanced firewalls to protect critical assets.
+- **IDS/IPS Configuration:** Setting up intrusion detection/prevention systems for real-time threat monitoring.
 
-[
-<!--
-**YourGitHubHandle/YourGitHubHandle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔒 **Information Security Management**
 
-Here are some ideas to get you started:
+- **Policy Development:** Creating and enforcing comprehensive security policies.
+- **Risk Assessments:** Conducting detailed risk evaluations to ensure data protection.
+- **Compliance:** Ensuring adherence to industry standards like ISO 27001 and NIST.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 **Application Security**
+
+- **Secure Code Reviews:** Analyzing code to find and fix security vulnerabilities.
+- **Penetration Testing:** Performing thorough tests to uncover weaknesses.
+- **Development Guidance:** Advising on secure development practices (OWASP Top 10, secure SDLC).
+
+### 🚨 **Incident Response**
+
+- **Planning:** Developing strategies for effective incident management.
+- **Mitigation:** Assisting in quick containment and recovery from security breaches.
+
+### 📊 **Security Audits & Compliance**
+
+- **Assessments:** Reviewing security controls to identify and address vulnerabilities.
+- **Regulatory Compliance:** Ensuring compliance with GDPR, HIPAA, and other regulations.
+
+## 🌟 **Projects & Achievements**
+
+- **Secure Network Architecture:** Designed a resilient network for a multinational corporation, implementing layered defenses.
+- **Web Application Fortification:** Enhanced security for an e-commerce platform through comprehensive testing and remediation.
+- **Security Awareness Training:** Created engaging training programs to educate employees on cybersecurity best practices.
+- **Incident Response Planning:** Developed a robust response plan for a financial institution, minimizing downtime during incidents.
+
+## Some of my Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabemanigat&theme=dark)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabemanigat&layout=compact&theme=dark)](https://github.com/gabemanigat/github-readme-stats)
+
+
+## Areas of Expertise
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+
+Feel free to explore my repositories or connect with me!
