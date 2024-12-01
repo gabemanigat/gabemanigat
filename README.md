@@ -65,6 +65,6 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 
 ## Certifications
 
-[![Certified AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/your-badge-link) 
+[![AWS Certified Solutions Architect - CompTIA Security+ - ITGC](https://img.shields.io/badge/AWS%20Architect-CompTIA%20Security%2B%20%7C%20ITGC-blue?style=for-the-badge)](https://www.credly.com/badges/your-badge-link)
 
 Feel free to explore my repositories or connect with me!
