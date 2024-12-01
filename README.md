@@ -1,5 +1,9 @@
 ## Hey 👋, This is GabeManigatJr 🚀
 
+
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](gabemanigat@gmail.com)
+
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gabemanigat alt=gabemanigat /> </p>
 
 
@@ -59,5 +63,8 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 
+## Certifications
+
+[![Certified AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/your-badge-link) 
 
 Feel free to explore my repositories or connect with me!
