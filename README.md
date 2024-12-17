@@ -7,7 +7,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gabemanigat alt=gabemanigat /> </p>
 
 
-I’m **gabemanigat**, a passionate cybersecurity engineer with sharp soft skills and over the years  gaining real time tech experience in protecting digital assets and ensuring a safer digital landscape in any enviroments I have been exposed too. 
+I’m **Gabe Manigat Jr**, a passionate cybersecurity engineer with sharp soft skills and over the years  gaining real time tech experience in protecting digital assets and ensuring a safer digital landscape in any enviroments I have been exposed too. 
 Passionate with an ambition to become a cybersecurity expert. Committed to daily self-improvement, and continuted learning, I am determined to achieve mastery in cybersecurity. Interested in leveraging skills in security operations and compliance to explore and gain exposure to as many diverse elements of cybersecurity as possible. My experience and focus with time management and attention to detail are critical components that I have perfected to be an asset to an infrastructure or an organization.
 
 ## 🔍 What I Do
