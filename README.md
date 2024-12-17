@@ -35,14 +35,14 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 ### 🚨 **Incident Response**
 
 - **Planning:** Developing strategies for effective incident management w/ NIST 800-61, SANS Incident Framework, ISO27035.
-- **Mitigation:** Assisting in quick containment and recovery from security breaches.
+- **Mitigation:** Assisting in quick containment and recovery from security breaches using Unified Kill Chain Framwork & MITRE'S ATT&CK.
 - **Contingency Plan:** Assisted with the creation w/ NIST 800-34.
 
 ### 📊 **Security Audits & Compliance**
 
 - **Assessments:** Reviewing security controls to identify and address vulnerabilities w/ NIST 800-30r1.
 - **Regulatory Compliance:** Ensuring compliance with GDPR, HIPAA, HITRUST and other regulations.
-- **Audit Compliance:** Ensuring compliance with Audits, ITGC, and ITAC.
+- **Audit Compliance:** Ensuring compliance with Audits, ITGC, and ITAC &  ISO 27001
 
 ## 🌟 **Projects & Achievements**
 
