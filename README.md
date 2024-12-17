@@ -43,6 +43,7 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 - **Assessments:** Reviewing security controls to identify and address vulnerabilities w/ NIST 800-30r1.
 - **Regulatory Compliance:** Ensuring compliance with GDPR, HIPAA, HITRUST and other regulations.
 - **Audit Compliance:** Ensuring compliance with Audits, ITGC, and ITAC &  ISO 27001
+- **Third-Party Risk Management (TPRM):** Evaluating vendor security practices to identify and mitigate risks in alignment with NIST 800-53 and organizational policies.
 
 ## 🌟 **Projects & Achievements**
 
