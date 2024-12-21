@@ -16,7 +16,7 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 
 - **Architecture Design:** Crafting robust network structures leveraging segmentation, secure configurations, and compliance-focused design to resist attacks and protect sensitive assets.
 - **Firewall Implementation:** Configuring and deploying advanced firewalls with tailored access controls, segmentation, and threat prevention to safeguard critical assets and ensure compliance with regulatory standards.
-- **IDS/IPS Configuration:** Setting up intrusion detection/prevention systems for real-time threat monitoring.
+- **IDS/IPS Configuration:** Setting up intrusion detection/prevention systems for real-time threat monitoring. Using (TTP) Tactics, Techniques (Sub Techniques) & Procedures, Mitre ATT&K Framwork and Diaman Model Of Intrusinon Framework. Anatomy of SIGMA  rule 
 
 ### 🔒 **Information Security Management**
 
