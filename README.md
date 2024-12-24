@@ -20,7 +20,7 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 
 ### 🔒 **Information Security Management**
 
-- **Policy Development:** Creating and enforcing comprehensive security policies using best practice Frameworks to taylor policy w/ Mitre Att&ck, NIST SP 800-18r1 and FIPS 199 & FIPS 200.
+- **Policy Development:** Creating and enforcing comprehensive security policies using best practice Frameworks to taylor policy w/ RBAC, Mitre Att&ck, NIST SP 800-18r1 and FIPS 199 & FIPS 200.
 - **Risk Assessments:** Conducting detailed risk evaluations to ensure data protection w/ NIST 800-30r1 on all Servers, Applications and DataBase Layers.
 - **Compliance:** Ensuring adherence to industry standards like ISO 9001, ISO 27001, NIST SP 800-37r2 and NIST SP 800-18r1.
 - **Security Training:** Driving security training and awareness programs through taylored campaigns, promoting homegrown security hygiene while reinforcing best practices polices and procedures.
@@ -34,8 +34,8 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 
 ### 🚨 **Incident Response**
 
-- **Planning:** Developing strategies for effective incident management w/ NIST 800-61, SANS Incident Framework, ISO27035.
-- **Mitigation:** Assisting in quick containment and recovery from security breaches using Unified Kill Chain Framwork & MITRE'S ATT&CK.
+- **Planning:** Developing strategies for effective incident management w/ NIST 800-61, SANS Incident Framework, ISO27035 & Pyramid of Pain.
+- **Mitigation:** Assisting in quick containment and recovery from security breaches using Unified Kill Chain Framwork & MITRE'S ATT&CK & Diamond Framework.
 - **Contingency Plan:** Assisted with the creation w/ NIST 800-34.
 
 ### 📊 **Security Audits & Compliance**
