@@ -34,7 +34,7 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 
 ### 🚨 **Incident Response**
 
-- **Planning:** Developing strategies for effective incident management w/ NIST 800-61, SANS Incident Framework, ISO27035 & Pyramid of Pain.
+- **Planning:** Developing strategies for effective incident management w/ NIST 800-61, SANS Incident Framework, ISO27035 & Pyramid of Pain Framework.
 - **Mitigation:** Assisting in quick containment and recovery from security breaches using Unified Kill Chain Framwork & MITRE'S ATT&CK & Diamond Framework.
 - **Contingency Plan:** Assisted with the creation w/ NIST 800-34.
 
