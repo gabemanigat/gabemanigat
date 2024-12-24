@@ -30,7 +30,7 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 - **Secure Code Reviews:** Analyzing code to find and fix security vulnerabilities.
 - **Penetration Test:** Assisting in penetration testing processes and driving the remediation of identified vulnerabilities to enhance security posture.
 - **Development Guidance:** Advising on secure development practices (OWASP Top 10, secure SDLC W/ NIST 800-64r2).
-- **IT SOX Controls Review:** Analyzing all Roles, permissions and access for all User Access Requests, Change Manangment and IT Operations( Data Backups, Jobs Monitoring. on seheduler access controls to provide reasonalbe assurance that authorized programs are executed and controls are accurate and valid. 
+- **IT SOX Controls Review:** Analyzing all Roles, permissions and access for all User Access Requests, Change Manangment and IT Operations Data Backups, Jobs Monitoring on seheduler access controls to provide reasonalbe assurance that authorized programs are executed and controls are accurate and valid. 
 
 ### 🚨 **Incident Response**
 
@@ -42,7 +42,7 @@ Passionate with an ambition to become a cybersecurity expert. Committed to daily
 
 - **Assessments:** Reviewing security controls to identify and address vulnerabilities w/ NIST 800-30r1.
 - **Regulatory Compliance:** Ensuring compliance with GDPR, HIPAA, HITRUST and other regulations.
-- **Audit Compliance:** Ensuring compliance with Audits, ITGC, and ITAC &  ISO 27001
+- **Audit Compliance:** Ensuring compliance with Audits, ITGC, and ITAC &  ISO 27001 SOP Creation.
 - **Third-Party Risk Management (TPRM):** Evaluating vendor security practices to identify and mitigate risks in alignment with NIST 800-53 and organizational policies.
 
 ## 🌟 **Projects & Achievements**
